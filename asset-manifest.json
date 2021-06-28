@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/branzooka-test-route/static/css/main.4e6475f9.chunk.css",
+    "main.js": "/branzooka-test-route/static/js/main.b7c74f4e.chunk.js",
+    "main.js.map": "/branzooka-test-route/static/js/main.b7c74f4e.chunk.js.map",
+    "runtime-main.js": "/branzooka-test-route/static/js/runtime-main.d5d56276.js",
+    "runtime-main.js.map": "/branzooka-test-route/static/js/runtime-main.d5d56276.js.map",
+    "static/css/2.25d78810.chunk.css": "/branzooka-test-route/static/css/2.25d78810.chunk.css",
+    "static/js/2.782ae476.chunk.js": "/branzooka-test-route/static/js/2.782ae476.chunk.js",
+    "static/js/2.782ae476.chunk.js.map": "/branzooka-test-route/static/js/2.782ae476.chunk.js.map",
+    "index.html": "/branzooka-test-route/index.html",
+    "precache-manifest.5e60b186aec4af4735da84638433b2b4.js": "/branzooka-test-route/precache-manifest.5e60b186aec4af4735da84638433b2b4.js",
+    "service-worker.js": "/branzooka-test-route/service-worker.js",
+    "static/css/2.25d78810.chunk.css.map": "/branzooka-test-route/static/css/2.25d78810.chunk.css.map",
+    "static/css/main.4e6475f9.chunk.css.map": "/branzooka-test-route/static/css/main.4e6475f9.chunk.css.map",
+    "static/js/2.782ae476.chunk.js.LICENSE.txt": "/branzooka-test-route/static/js/2.782ae476.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/branzooka-test-route/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5d56276.js",
+    "static/css/2.25d78810.chunk.css",
+    "static/js/2.782ae476.chunk.js",
+    "static/css/main.4e6475f9.chunk.css",
+    "static/js/main.b7c74f4e.chunk.js"
+  ]
+}

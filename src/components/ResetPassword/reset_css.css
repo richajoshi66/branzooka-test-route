@@ -1,0 +1,70 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+}
+.header .navbar {
+    background-color: #315A83 !important;
+}
+.new-sec{
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+
+.form-rtp {
+    box-sizing: border-box;
+    width: 600px;
+    max-width: 80%;
+    margin: 0 auto;
+    border: 1px solid;
+    padding: 50px;
+    background: #ffffffba;
+    border: transparent;
+    border-radius: 5px;
+    box-shadow: 2px 2px 17px #ababab;
+}
+.form-rtp h1{
+    font-size: 40PX;
+    font-weight: 700 !important;
+    color: #325A83;
+    font-family: 'Sailec Bold';
+}
+.res-btn{
+    width: 110px;
+    padding: 10px;
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    background: #5EA3CE;
+    font-weight: 400;
+    font-family: 'Sailec Bold';
+    font-size: 16px;
+}
+.fm-l{
+    color: #325A83;
+    font-weight: 400;
+    font-family: 'Sailec Medium';
+    font-size: 16px;
+    padding-top: 10px;
+}
+.new-fm{
+    border: none;
+    background: #F6F8FA;
+}
+
+@media(max-width: 900px){
+    .new-sec {
+        margin-top: 100px;
+    }
+}
+@media(max-width: 600px){
+    .form-rtp{
+        padding: 25px;
+    }
+}
+@media(max-width: 450px){
+    .form-rtp h1 {
+        FONT-SIZE: 24PX;
+    }
+}
